@@ -24,8 +24,6 @@ VS Code is a feature rich and extensible integrated development environment whic
 <img src="https://content.vexrobotics.com/vscode/readme/python_icon.png" width=80px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
 # Features
 * Updates VEX firmware
 * IntelliSense for the VEX API
@@ -35,9 +33,8 @@ VS Code is a feature rich and extensible integrated development environment whic
 * Hardware troubleshooting tools
 
 # VEX Library Links
-* [Installation Instructions](https://kb.vex.com/hc/en-us)
-* [Create Project](https://kb.vex.com/hc/en-us) 
-* [Import Project](https://kb.vex.com/hc/en-us) 
-* [UI Overview](https://kb.vex.com/hc/en-us)
+* [Installation Instructions](https://link.vex.com/vs-code-installation)
+* [UI Overview](https://link.vex.com/vs-ui)
+* [Creating vscode projects](https://link.vex.com/vs-get-started)
 
 
