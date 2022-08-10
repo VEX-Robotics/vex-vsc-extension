@@ -7,9 +7,9 @@
 
 
 # Overview
-[**VEXcode**](https://code.vex.com) is the recommended coding environment for VEX users as they start their journey learning to code. Students considering a career in coding, and who have become proficient in textual coding, will benefit from learning the tools used by professional coders.  Microsoft’s Visual Studio Code is the tool of choice for 70% of professional coders worldwide. VEX has created an extension for Microsoft’s Visual Studio Code (VS Code) for this  purpose.
+[**VEXcode**](https://code.vex.com) is the recommended coding environment for VEX users as they start their journey learning to code. Students considering a career in coding, and who have become proficient in textual coding, will benefit from learning the tools used by professional coders.  Microsoft’s Visual Studio Code is the tool of choice for 70% of professional coders worldwide. VEX has created an extension for Microsoft’s Visual Studio Code (VS Code) for this purpose.
 
-VS Code is a feature rich and extensible integrated development environment which is used by professionals everywhere to create production quality software. The VEX VS Code extension will allow our users to use these production quality tools seamlessly with VEX hardware. VEX plans to release the source code to this extension when we release version 1.0 to the public. This will allow other users to build on top of what we have done to create new tools that they may find useful.
+VS Code is a feature rich and extensible integrated development environment which is used by professionals everywhere to create production quality software. The VEX VS Code extension will allow our users to use these production quality tools seamlessly with VEX hardware. The source code to this extension will be open sourced. This will allow other users to build on top of what we have done to create new tools that they may find useful.
 
 # Supported Platforms
 <p align="left">
