@@ -13,7 +13,7 @@ VS Code is a feature rich and extensible integrated development environment whic
 
 # Supported Platforms
 <p align="left">
-<img src="https://content.vexrobotics.com/vscode/readme/vexcodeIQ2.png" width=80px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://content.vexrobotics.com/vscode/readme/vexcodeIQGEN2.png" width=80px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://content.vexrobotics.com/vscode/readme/vexcodeEXP.png" width=80px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://content.vexrobotics.com/vscode/readme/vexcodeV5.png" width=80px>  
 </p>
